@@ -1,2 +1,2 @@
-# FeynnLabs
+# Sidework
 Internship assignment
